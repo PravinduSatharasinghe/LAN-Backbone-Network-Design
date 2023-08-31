@@ -1,7 +1,7 @@
 # LAN & Backbone Network Design
 Welcome to the GitHub repository for the LAN and backbone network desgin for University of Moratuwa, Sri Lanka. Here in our approach we propose new network desing from a new architectural and technical point of view.
 
-# LAN for the Department of Electornic and Telecommunication Engineering
+# Local Area Network for the Department of Electornic and Telecommunication Engineering
 With this LAN we have added more L3 swtiches than the exisitng one in order to improve the quality of service given from the wireless network to the end users. Also, we increase the number of access points in our network desgin which goes with the same purpose. Here, we have avoided most of the flat and dailsy network issues by using a heirarchical aggregation of the network nodes like, switches and accesspoints.
 
 # Backbone Network for the University
